@@ -1,8 +1,7 @@
 # Hi 👋, I'm Mia Sorola Yoshida #
 ### UI/UX Designer and Frontend Developer with a Curiosity for Machine Learning ###
 
-- 🔭 I’m currently working on [Orbital Mentorship](https://orbitalmentorship.org/)
-- 🌱 I’m currently learning **PyTorch, OpenCV, and OpenPose**
+- 🌱 I’m currently learning **PyTorch and OpenCV**
 - 💬 Ask me about **Figma and React**
 - ⚡ Fun fact **I enjoy solving sudokus and crocheting**
 - 📫 Feel free to reach out: [miasorolayoshida@gmail.com](mailto:miasorolayoshida@gmail.com)
