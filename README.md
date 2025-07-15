@@ -1,8 +1,7 @@
 # Hi 👋, I'm Mia Sorola Yoshida #
-### UI/UX Designer and Frontend Developer with a Curiosity for Machine Learning ###
+### Data Scientist and Fullstack Developer with a Curiosity for Machine Learning ###
 
 - 🌱 I’m currently learning **PyTorch and OpenCV**
-- 💬 Ask me about **Figma and React**
 - ⚡ Fun fact **I enjoy solving sudokus and crocheting**
 - 📫 Feel free to reach out: [miasorolayoshida@gmail.com](mailto:miasorolayoshida@gmail.com)
 
